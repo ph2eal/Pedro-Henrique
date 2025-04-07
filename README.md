@@ -1,5 +1,5 @@
-<h1 align="center"> 👋😄 Hi, my name is Pedro Oliveira </h1>
-<h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
+<h1 align="center"> 👋😄 Oi, meu nome é Pedro Henrique </h1>
+<h3 align="center">Este é meu mundo na Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 🧑🏻‍🎓
