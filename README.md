@@ -31,12 +31,3 @@
 <img src="https://github.com/Philippeizidorio/CriandoDW_SQLEMPVinicola/assets/145637595/a2ff1f77-cccf-45f6-8ecc-5a9735f2e64c">
 </div>         
 
-
-###
-
-<h2 align="left">📊 Github Stats</h2> 
-
-<div>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=philippeizidorio&show_icons=true&theme=holi"/>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippeizidorio&layout=compact&theme=holi"/>
-</div>
